@@ -8,6 +8,7 @@ sources/
 sources.yml
 spec/examples.txt
 vendor/bundle/
+babushka-*.gem
 
 bin/autospec
 bin/htmldiff
